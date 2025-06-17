@@ -190,27 +190,10 @@ There are two major types:
 **Example Tree**:
 
 (S
-  (NP
-    (DT The)
-    (JJ quick)
-    (JJ brown)
-    (NN fox)
-  )
-  (VP
-    (VBZ jumps)
-    (PP
-      (IN over)
-      (NP
-        (DT the)
-        (JJ lazy)
-        (NN dog)
-      )
-    )
-  )
-  (. .)
-)
-
-
+(NP The quick brown fox)
+(VP jumps
+(PP over
+(NP the lazy dog))))
 
 
 ### 2. **Dependency Parsing**

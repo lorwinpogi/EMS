@@ -134,7 +134,7 @@ print(classifier.classify({'bad': True}))     # neg
 ```
 
 
-#  Exploratory Data Analysis (EDA) in Python
+#  Exploratory Data Analysis (EDA) 
 
 **Exploratory Data Analysis (EDA)** is the process of analyzing data sets to summarize their main characteristics, often using visual methods. EDA helps understand the data structure, spot anomalies, detect patterns, and test hypotheses.
 
@@ -254,7 +254,7 @@ df.drop_duplicates(inplace=True)
 df.to_csv('cleaned_dataset.csv', index=False)
 ```
 
-#  Pandas DataFrame Operations in Python
+#  Pandas DataFrame Operations 
 
 A **DataFrame** is a 2-dimensional labeled data structure in **Pandas**, similar to a table in SQL or an Excel spreadsheet. This guide covers key DataFrame operations for data manipulation and analysis.
 

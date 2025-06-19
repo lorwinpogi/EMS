@@ -254,7 +254,7 @@ df.drop_duplicates(inplace=True)
 df.to_csv('cleaned_dataset.csv', index=False)
 ```
 
-# 🐼 Pandas DataFrame Operations in Python
+#  Pandas DataFrame Operations in Python
 
 A **DataFrame** is a 2-dimensional labeled data structure in **Pandas**, similar to a table in SQL or an Excel spreadsheet. This guide covers key DataFrame operations for data manipulation and analysis.
 
